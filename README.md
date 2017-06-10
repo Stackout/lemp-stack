@@ -9,7 +9,8 @@ Docker LEMP stack for PHP (Laravel Framework)
 
 Services in the stack:
 * L - Linux (Alpine)
-* E - Nginx
+* ~~E - Nginx~~
+* **A - Apache**
 * M - MySQL
 * P - PHP
 * R - Redis
